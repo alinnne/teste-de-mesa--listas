@@ -1,0 +1,44 @@
+ex1
+
+
+1-22-333-lab@lab:~/php$ 
+
+
+
+
+ex2
+
+lab@lab:~/php$ php ex2.php
+1: Cristo Redentor
+2: Chichén Itzá
+3: Coliseu
+4: Muralha da China
+5: Petra
+6: Machu Picchu
+7: Taj Mahal
+lab@lab:~/php$
+ 
+
+
+
+ex3
+
+
+
+lab@lab:~/php$ php ex3.php
+o valor buscado está entre as maravilhaslab@lab:~/php$
+
+
+
+
+ex4
+
+
+
+lab@lab:~/php$ php ex4.php
+4 - 7 - 11 - 25 - 33 - 47 - lab@lab:~/php$
+
+
+
+ex5
+
